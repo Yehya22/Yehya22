@@ -5,12 +5,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=1c7ed6&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a Frontend web Developer.
 - 💻 I have a good experience in HTML5,CSS, JS, ReactJS and a bit of experience in Node.js
-- 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
+- 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to Web development.
 - 👨‍💻 Check out my <a href="https://rxresu.me/yehya/yehya-shaaban-cv">CV</a> and <a href="https://yehya22-portfolio.netlify.app">Portfolio</a> to see some of the projects I've worked on.
 
 
