@@ -11,7 +11,7 @@
 - 🏢 I'm a Frontend web Developer.
 - 💻 I have a good experience in HTML5,CSS, JS, ReactJS and a bit of experience in Node.js
 - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
-- 👨‍💻 Check out my <a href="https://yehya22-portfolio.netlify.app">Portfolio</a> to see some of the projects I've worked on.
+- 👨‍💻 Check out my <a href="https://rxresu.me/yehya/yehya-shaaban-cv">CV</a> and <a href="https://yehya22-portfolio.netlify.app">Portfolio</a> to see some of the projects I've worked on.
 
 
 ### Connect with Me :
